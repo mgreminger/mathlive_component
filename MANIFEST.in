@@ -1,0 +1,7 @@
+include mathlive_component/mathlive_component.min.js
+include mathlive_component/mathlive_component.min.js.map
+include mathlive_component/metadata.json
+include mathlive_component/package-info.json
+include README.md
+include LICENSE
+include package.json
